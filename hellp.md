@@ -15,7 +15,7 @@ hello `world`
 ```
 hello world
 ```
-```python=
+```python
 def hello()
     print('Hello World')
 
@@ -42,3 +42,4 @@ def hello()
 
 ![Image](https://www.industrialempathy.com/img/remote/ZiClJf-1920w.jpg)
 
+![Google](.google png)
