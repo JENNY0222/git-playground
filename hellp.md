@@ -42,4 +42,3 @@ def hello()
 
 ![Image](https://www.industrialempathy.com/img/remote/ZiClJf-1920w.jpg)
 
-![Google](.google png)
